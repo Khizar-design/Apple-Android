@@ -1,0 +1,69 @@
+body {
+    background-color:#CABFB6;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0 100px;
+    
+}
+
+div {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+.Android {
+    background-color: #a4c93b;
+    font-size: 20px;
+    width: 100px;
+    border-radius: 7px;
+}
+
+.Apple {
+    background-color: #b6bcca;
+    font-size: 20px;
+    width: 100px;
+    border-radius: 7px;
+    margin-bottom: 40px;
+}
+
+.Explore {
+    background-color: #c9793b;
+    padding: 12px;
+    border-radius: 7px;
+    margin-right: 40px;
+}
+
+h2 {
+    font-family: 'Proza Libre', sans-serif;
+    margin-left: 50px;
+}
+
+hr {
+    color: lightgrey;
+}
+
+.center {
+    text-align: center;
+}
+
+
+.mainpic {
+    margin-left: 55px;
+}
+
+ul {
+    margin-left: 60px;
+}
+
+p {
+    margin-left: 50px;
+}
